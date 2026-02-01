@@ -1,0 +1,19 @@
+
+TOP 50 REGENERATION COMPLETE
+==================================================
+Old average (best-of-50): 0.6110
+New average (best-of-20): 0.6268
+Improvement: +2.6%
+Samples improved: 35/50
+
+Top 10:
+   1. 00002_antelope       0.724 -> 0.730 (sub-09)
+   2. 00148_raspberry      0.722 -> 0.745 (sub-08)
+   3. 00012_beaver         0.697 -> 0.705 (sub-05)
+   4. 00161_seagull        0.695 -> 0.664 (sub-04)
+   5. 00087_gopher         0.693 -> 0.734 (sub-09)
+   6. 00039_cheetah        0.685 -> 0.691 (sub-05)
+   7. 00125_orange         0.682 -> 0.751 (sub-07)
+   8. 00131_pear           0.675 -> 0.713 (sub-08)
+   9. 00101_jelly_bean     0.667 -> 0.677 (sub-03)
+  10. 00038_cheese         0.663 -> 0.700 (sub-01)
