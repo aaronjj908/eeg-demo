@@ -1,0 +1,452 @@
+[
+  {
+    "index": 62,
+    "category": "dalmatian",
+    "lpips": 0.4732,
+    "clip_sim": 0.713,
+    "gt_file": "idx062_dalmatian_GT.png",
+    "recon_file": "idx062_dalmatian_top1_clip0.713_sub-04.png",
+    "ssim": 0.1043
+  },
+  {
+    "index": 5,
+    "category": "baseball_bat",
+    "lpips": 0.4831,
+    "clip_sim": 0.568,
+    "gt_file": "idx005_baseball_bat_GT.png",
+    "recon_file": "idx005_baseball_bat_top1_clip0.568_sub-07.png",
+    "ssim": 0.1377
+  },
+  {
+    "index": 109,
+    "category": "lightning_bug",
+    "lpips": 0.4871,
+    "clip_sim": 0.662,
+    "gt_file": "idx109_lightning_bug_GT.png",
+    "recon_file": "idx109_lightning_bug_top1_clip0.662_sub-01.png",
+    "ssim": 0.4665
+  },
+  {
+    "index": 11,
+    "category": "beaver",
+    "lpips": 0.4984,
+    "clip_sim": 0.757,
+    "gt_file": "idx011_beaver_GT.png",
+    "recon_file": "idx011_beaver_top1_clip0.757_sub-05.png",
+    "ssim": 0.0827
+  },
+  {
+    "index": 87,
+    "category": "gorilla",
+    "lpips": 0.5039,
+    "clip_sim": 0.599,
+    "gt_file": "idx087_gorilla_GT.png",
+    "recon_file": "idx087_gorilla_top1_clip0.599_sub-09.png",
+    "ssim": 0.1387
+  },
+  {
+    "index": 130,
+    "category": "pear",
+    "lpips": 0.517,
+    "clip_sim": 0.693,
+    "gt_file": "idx130_pear_GT.png",
+    "recon_file": "idx130_pear_top1_clip0.693_sub-04.png",
+    "ssim": 0.206
+  },
+  {
+    "index": 160,
+    "category": "seagull",
+    "lpips": 0.5247,
+    "clip_sim": 0.702,
+    "gt_file": "idx160_seagull_GT.png",
+    "recon_file": "idx160_seagull_top1_clip0.702_sub-04.png",
+    "ssim": 0.1974
+  },
+  {
+    "index": 151,
+    "category": "rooster",
+    "lpips": 0.5262,
+    "clip_sim": 0.794,
+    "gt_file": "idx151_rooster_GT.png",
+    "recon_file": "idx151_rooster_top1_clip0.794_sub-01.png",
+    "ssim": 0.2098
+  },
+  {
+    "index": 33,
+    "category": "caterpillar",
+    "lpips": 0.5326,
+    "clip_sim": 0.651,
+    "gt_file": "idx033_caterpillar_GT.png",
+    "recon_file": "idx033_caterpillar_top1_clip0.651_sub-02.png",
+    "ssim": 0.1459
+  },
+  {
+    "index": 128,
+    "category": "panther",
+    "lpips": 0.5346,
+    "clip_sim": 0.631,
+    "gt_file": "idx128_panther_GT.png",
+    "recon_file": "idx128_panther_top1_clip0.631_sub-02.png",
+    "ssim": 0.0965
+  },
+  {
+    "index": 100,
+    "category": "jelly_bean",
+    "lpips": 0.5373,
+    "clip_sim": 0.743,
+    "gt_file": "idx100_jelly_bean_GT.png",
+    "recon_file": "idx100_jelly_bean_top1_clip0.743_sub-03.png",
+    "ssim": 0.1017
+  },
+  {
+    "index": 71,
+    "category": "elephant",
+    "lpips": 0.5405,
+    "clip_sim": 0.6,
+    "gt_file": "idx071_elephant_GT.png",
+    "recon_file": "idx071_elephant_top1_clip0.600_sub-02.png",
+    "ssim": 0.1578
+  },
+  {
+    "index": 105,
+    "category": "lamb",
+    "lpips": 0.5617,
+    "clip_sim": 0.729,
+    "gt_file": "idx105_lamb_GT.png",
+    "recon_file": "idx105_lamb_top1_clip0.729_sub-01.png",
+    "ssim": 0.1739
+  },
+  {
+    "index": 38,
+    "category": "cheetah",
+    "lpips": 0.5676,
+    "clip_sim": 0.679,
+    "gt_file": "idx038_cheetah_GT.png",
+    "recon_file": "idx038_cheetah_top1_clip0.679_sub-05.png",
+    "ssim": 0.0634
+  },
+  {
+    "index": 149,
+    "category": "rhinoceros",
+    "lpips": 0.569,
+    "clip_sim": 0.657,
+    "gt_file": "idx149_rhinoceros_GT.png",
+    "recon_file": "idx149_rhinoceros_top1_clip0.657_sub-02.png",
+    "ssim": 0.4205
+  },
+  {
+    "index": 17,
+    "category": "bok_choy",
+    "lpips": 0.5702,
+    "clip_sim": 0.586,
+    "gt_file": "idx017_bok_choy_GT.png",
+    "recon_file": "idx017_bok_choy_top1_clip0.586_sub-10.png",
+    "ssim": 0.0557
+  },
+  {
+    "index": 108,
+    "category": "lettuce",
+    "lpips": 0.571,
+    "clip_sim": 0.706,
+    "gt_file": "idx108_lettuce_GT.png",
+    "recon_file": "idx108_lettuce_top1_clip0.706_sub-03.png",
+    "ssim": 0.0573
+  },
+  {
+    "index": 86,
+    "category": "gopher",
+    "lpips": 0.574,
+    "clip_sim": 0.776,
+    "gt_file": "idx086_gopher_GT.png",
+    "recon_file": "idx086_gopher_top1_clip0.776_sub-09.png",
+    "ssim": 0.0916
+  },
+  {
+    "index": 141,
+    "category": "possum",
+    "lpips": 0.5759,
+    "clip_sim": 0.742,
+    "gt_file": "idx141_possum_GT.png",
+    "recon_file": "idx141_possum_top1_clip0.742_sub-04.png",
+    "ssim": 0.1435
+  },
+  {
+    "index": 156,
+    "category": "sausage",
+    "lpips": 0.5861,
+    "clip_sim": 0.697,
+    "gt_file": "idx156_sausage_GT.png",
+    "recon_file": "idx156_sausage_top1_clip0.697_sub-03.png",
+    "ssim": 0.1587
+  },
+  {
+    "index": 30,
+    "category": "cart",
+    "lpips": 0.5889,
+    "clip_sim": 0.655,
+    "gt_file": "idx030_cart_GT.png",
+    "recon_file": "idx030_cart_top1_clip0.655_sub-01.png",
+    "ssim": 0.1218
+  },
+  {
+    "index": 157,
+    "category": "scallion",
+    "lpips": 0.601,
+    "clip_sim": 0.656,
+    "gt_file": "idx157_scallion_GT.png",
+    "recon_file": "idx157_scallion_top1_clip0.656_sub-09.png",
+    "ssim": 0.0705
+  },
+  {
+    "index": 45,
+    "category": "cobra",
+    "lpips": 0.6074,
+    "clip_sim": 0.686,
+    "gt_file": "idx045_cobra_GT.png",
+    "recon_file": "idx045_cobra_top1_clip0.686_sub-08.png",
+    "ssim": 0.0797
+  },
+  {
+    "index": 1,
+    "category": "antelope",
+    "lpips": 0.6088,
+    "clip_sim": 0.743,
+    "gt_file": "idx001_antelope_GT.png",
+    "recon_file": "idx001_antelope_top1_clip0.743_sub-09.png",
+    "ssim": 0.2893
+  },
+  {
+    "index": 39,
+    "category": "chest2",
+    "lpips": 0.6088,
+    "clip_sim": 0.623,
+    "gt_file": "idx039_chest2_GT.png",
+    "recon_file": "idx039_chest2_top1_clip0.623_sub-10.png",
+    "ssim": 0.2256
+  },
+  {
+    "index": 132,
+    "category": "pheasant",
+    "lpips": 0.611,
+    "clip_sim": 0.639,
+    "gt_file": "idx132_pheasant_GT.png",
+    "recon_file": "idx132_pheasant_top1_clip0.639_sub-01.png",
+    "ssim": 0.1492
+  },
+  {
+    "index": 25,
+    "category": "bullet",
+    "lpips": 0.6161,
+    "clip_sim": 0.684,
+    "gt_file": "idx025_bullet_GT.png",
+    "recon_file": "idx025_bullet_top1_clip0.684_sub-03.png",
+    "ssim": 0.5176
+  },
+  {
+    "index": 10,
+    "category": "batter",
+    "lpips": 0.618,
+    "clip_sim": 0.679,
+    "gt_file": "idx010_batter_GT.png",
+    "recon_file": "idx010_batter_top1_clip0.679_sub-04.png",
+    "ssim": 0.2558
+  },
+  {
+    "index": 80,
+    "category": "fruit",
+    "lpips": 0.6219,
+    "clip_sim": 0.637,
+    "gt_file": "idx080_fruit_GT.png",
+    "recon_file": "idx080_fruit_top1_clip0.637_sub-07.png",
+    "ssim": 0.0705
+  },
+  {
+    "index": 53,
+    "category": "creme_brulee",
+    "lpips": 0.6375,
+    "clip_sim": 0.669,
+    "gt_file": "idx053_creme_brulee_GT.png",
+    "recon_file": "idx053_creme_brulee_top1_clip0.669_sub-08.png",
+    "ssim": 0.3748
+  },
+  {
+    "index": 133,
+    "category": "pickax",
+    "lpips": 0.6404,
+    "clip_sim": 0.589,
+    "gt_file": "idx133_pickax_GT.png",
+    "recon_file": "idx133_pickax_top1_clip0.589_sub-03.png",
+    "ssim": 0.1772
+  },
+  {
+    "index": 110,
+    "category": "manatee",
+    "lpips": 0.6464,
+    "clip_sim": 0.594,
+    "gt_file": "idx110_manatee_GT.png",
+    "recon_file": "idx110_manatee_top1_clip0.594_sub-01.png",
+    "ssim": 0.2501
+  },
+  {
+    "index": 37,
+    "category": "cheese",
+    "lpips": 0.6534,
+    "clip_sim": 0.679,
+    "gt_file": "idx037_cheese_GT.png",
+    "recon_file": "idx037_cheese_top1_clip0.679_sub-10.png",
+    "ssim": 0.279
+  },
+  {
+    "index": 182,
+    "category": "tick",
+    "lpips": 0.6556,
+    "clip_sim": 0.608,
+    "gt_file": "idx182_tick_GT.png",
+    "recon_file": "idx182_tick_top1_clip0.608_sub-08.png",
+    "ssim": 0.4683
+  },
+  {
+    "index": 118,
+    "category": "music_box",
+    "lpips": 0.6623,
+    "clip_sim": 0.58,
+    "gt_file": "idx118_music_box_GT.png",
+    "recon_file": "idx118_music_box_top1_clip0.580_sub-01.png",
+    "ssim": 0.0965
+  },
+  {
+    "index": 183,
+    "category": "tomato_sauce",
+    "lpips": 0.664,
+    "clip_sim": 0.673,
+    "gt_file": "idx183_tomato_sauce_GT.png",
+    "recon_file": "idx183_tomato_sauce_top1_clip0.673_sub-04.png",
+    "ssim": 0.128
+  },
+  {
+    "index": 43,
+    "category": "cleaver",
+    "lpips": 0.6641,
+    "clip_sim": 0.628,
+    "gt_file": "idx043_cleaver_GT.png",
+    "recon_file": "idx043_cleaver_top1_clip0.628_sub-04.png",
+    "ssim": 0.4057
+  },
+  {
+    "index": 97,
+    "category": "ice_cube",
+    "lpips": 0.67,
+    "clip_sim": 0.583,
+    "gt_file": "idx097_ice_cube_GT.png",
+    "recon_file": "idx097_ice_cube_top1_clip0.583_sub-08.png",
+    "ssim": 0.1735
+  },
+  {
+    "index": 197,
+    "category": "windshield",
+    "lpips": 0.6723,
+    "clip_sim": 0.479,
+    "gt_file": "idx197_windshield_GT.png",
+    "recon_file": "idx197_windshield_top1_clip0.479_sub-01.png",
+    "ssim": 0.2648
+  },
+  {
+    "index": 63,
+    "category": "dessert",
+    "lpips": 0.6734,
+    "clip_sim": 0.63,
+    "gt_file": "idx063_dessert_GT.png",
+    "recon_file": "idx063_dessert_top1_clip0.630_sub-05.png",
+    "ssim": 0.1798
+  },
+  {
+    "index": 57,
+    "category": "crow",
+    "lpips": 0.6774,
+    "clip_sim": 0.731,
+    "gt_file": "idx057_crow_GT.png",
+    "recon_file": "idx057_crow_top1_clip0.731_sub-01.png",
+    "ssim": 0.3827
+  },
+  {
+    "index": 147,
+    "category": "raspberry",
+    "lpips": 0.6905,
+    "clip_sim": 0.752,
+    "gt_file": "idx147_raspberry_GT.png",
+    "recon_file": "idx147_raspberry_top1_clip0.752_sub-08.png",
+    "ssim": 0.1278
+  },
+  {
+    "index": 142,
+    "category": "pretzel",
+    "lpips": 0.6964,
+    "clip_sim": 0.611,
+    "gt_file": "idx142_pretzel_GT.png",
+    "recon_file": "idx142_pretzel_top1_clip0.611_sub-10.png",
+    "ssim": 0.0818
+  },
+  {
+    "index": 92,
+    "category": "handbrake",
+    "lpips": 0.6984,
+    "clip_sim": 0.572,
+    "gt_file": "idx092_handbrake_GT.png",
+    "recon_file": "idx092_handbrake_top1_clip0.572_sub-01.png",
+    "ssim": 0.2636
+  },
+  {
+    "index": 81,
+    "category": "garlic",
+    "lpips": 0.7313,
+    "clip_sim": 0.63,
+    "gt_file": "idx081_garlic_GT.png",
+    "recon_file": "idx081_garlic_top1_clip0.630_sub-02.png",
+    "ssim": 0.4629
+  },
+  {
+    "index": 124,
+    "category": "orange",
+    "lpips": 0.7347,
+    "clip_sim": 0.797,
+    "gt_file": "idx124_orange_GT.png",
+    "recon_file": "idx124_orange_top1_clip0.797_sub-04.png",
+    "ssim": 0.1945
+  },
+  {
+    "index": 169,
+    "category": "spatula",
+    "lpips": 0.7368,
+    "clip_sim": 0.671,
+    "gt_file": "idx169_spatula_GT.png",
+    "recon_file": "idx169_spatula_top1_clip0.671_sub-01.png",
+    "ssim": 0.2212
+  },
+  {
+    "index": 23,
+    "category": "bug",
+    "lpips": 0.7457,
+    "clip_sim": 0.666,
+    "gt_file": "idx023_bug_GT.png",
+    "recon_file": "idx023_bug_top1_clip0.666_sub-05.png",
+    "ssim": 0.0494
+  },
+  {
+    "index": 135,
+    "category": "pigeon",
+    "lpips": 0.7542,
+    "clip_sim": 0.629,
+    "gt_file": "idx135_pigeon_GT.png",
+    "recon_file": "idx135_pigeon_top1_clip0.629_sub-03.png",
+    "ssim": 0.1467
+  },
+  {
+    "index": 85,
+    "category": "goose",
+    "lpips": 0.8176,
+    "clip_sim": 0.591,
+    "gt_file": "idx085_goose_GT.png",
+    "recon_file": "idx085_goose_top1_clip0.591_sub-03.png",
+    "ssim": 0.2061
+  }
+]
